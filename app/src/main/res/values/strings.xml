@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Risk Calculator </string>
+    <string name="package_name">com.futurejurnalvercelapp.app</string>
+    <string name="target_url">https://future-jurnal.vercel.app/</string>
+</resources>
